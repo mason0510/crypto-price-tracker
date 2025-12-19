@@ -1,3 +1,4 @@
+# Crypto Price Tracker
 # 🪙 加密货币价格追踪器
 
 使用 **GitHub Pages** 免费托管的实时加密货币价格监控应用
